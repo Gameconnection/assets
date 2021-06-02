@@ -1,0 +1,10 @@
+{"name": "GameFin",
+    "website": "https://gamefin.company",
+    "description": "XGF token is part of the GF ecosystem",
+    "explorer": "https://bscscan.com/token/0xffdba873f74f15fed5fffaf7c458b246a1dc7eac",
+    "type": "BEP20",
+    "symbol": "XGF",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xffdba873f74f15fed5fffaf7c458b246a1dc7eac"
+}
